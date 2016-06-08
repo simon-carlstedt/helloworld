@@ -1,4 +1,4 @@
 # helloworld
 
-hello deleted word
+hello deleted word \n
 hello change
