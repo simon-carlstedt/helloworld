@@ -14,7 +14,8 @@ public class HelloWorld {
 		System.out.println("Hello Simon Again!");
 		int x = 3;	
 		double y = 1;
-		int z = 101;
+		//int z = 101;
+		String stringA = "test";
 		
 		//System.out.println("testt");
 		System.out.println("Some random change");
