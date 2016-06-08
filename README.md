@@ -1,4 +1,5 @@
 # helloworld
 
-hello deleted word \n
+hello deleted word <br />
+testing newline  
 hello change
