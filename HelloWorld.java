@@ -14,11 +14,16 @@ public class HelloWorld {
 		System.out.println("Hello Simon Again!");
 		int x = 3;	
 		double y = 1;
+		int z = 101;
 		
-		System.out.println("testt");
+		//System.out.println("testt");
+		System.out.println("Some random change");
+		
+
 		
 		while (x < 5) {
 			System.out.println(x);
+			System.out.println(z);
 			x++;
 		}
 		
