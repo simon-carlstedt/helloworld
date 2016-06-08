@@ -17,6 +17,7 @@ public class HelloWorld {
 		//int z = 101;
 		
 		String s = "testing: using windowns desktop";
+		int b;
 		
 		//System.out.println("testt");
 		System.out.println("Some random change");
