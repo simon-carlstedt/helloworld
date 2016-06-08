@@ -15,7 +15,8 @@ public class HelloWorld {
 		int x = 3;	
 		double y = 1;
 		//int z = 101;
-		String stringA = "test";
+		
+		String s = "testing: using windowns desktop";
 		
 		//System.out.println("testt");
 		System.out.println("Some random change");
